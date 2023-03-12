@@ -7,7 +7,7 @@ export const users = [
     lastName: "Khan",
     school: "Habib University, Karachi",
     email: "rasoolzaviar69@gmail.com",
-    profilePicture: "https://randomuser.me/api/portraits/men/1.jpg",
+    profilePicture: "https://picsum.photos/200",
     classLevel: "Senior",
   },
   {
@@ -16,7 +16,7 @@ export const users = [
     lastName: "Alam",
     school: "Habib University, Karachi",
     email: "sajeelalam@gmail.com",
-    profilePicture: "https://randomuser.me/api/portraits/men/2.jpg",
+    profilePicture: "https://picsum.photos/200",
     classLevel: "Freshmen",
   },
   {
@@ -25,7 +25,7 @@ export const users = [
     lastName: "Ahsan",
     school: "Habib University, Karachi",
     email: "ahsan34@gmail.com",
-    profilePicture: "https://randomuser.me/api/portraits/men/3.jpg",
+    profilePicture: "https://picsum.photos/200",
     classLevel: "Freshmen",
   },
   {
@@ -34,7 +34,7 @@ export const users = [
     lastName: "Afzal",
     school: "Dow University",
     email: "laibaafzal67@gmail.com",
-    profilePicture: "https://randomuser.me/api/portraits/women/8.jpg",
+    profilePicture: "https://picsum.photos/200",
     classLevel: "Junior",
   },
   {
@@ -43,7 +43,7 @@ export const users = [
     lastName: "Khan",
     school: "Beaconhouse",
     email: "saadkhan@gmail.com",
-    profilePicture: "https://randomuser.me/api/portraits/men/5.jpg",
+    profilePicture: "https://picsum.photos/200",
     classLevel: "Freshmen",
   },
 ];
